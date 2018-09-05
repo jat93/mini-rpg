@@ -1,4 +1,4 @@
-# mini-rpg
+# miniRPG
 
 Challenge #1 set by Jacob Rawlinson.
 
