@@ -16,6 +16,3 @@ if userInput == 1:
     newGame()
 else:
     quit()
-
-def quit():
-    quit()
