@@ -9,8 +9,10 @@ while True:
     else:
         break
 
+
 def newGame():
     print("\nYou have begun an incredible journey...")
+
 
 if userInput == 1:
     newGame()
